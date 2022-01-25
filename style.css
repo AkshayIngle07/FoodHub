@@ -83,7 +83,7 @@ body{
 /* section 1 */
 
 .home_section_1{
-    background-image: url(../HTML_CSS_Project/image/ia_100000053.jpg);
+    background-image: url(./image/ia_100000053.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: -85px;
@@ -304,7 +304,7 @@ body{
 /* section 3 */
 
 .home_section_3{
-    background-image: url(../HTML_CSS_Project/image/ia_100000054.jpg);
+    background-image: url(./image/ia_100000054.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 550px;
@@ -1010,7 +1010,7 @@ body{
 /* --------------------------------------------- shop page-------------------------------------------------- */
 
 .shop_section_1{
-    background-image: url(../HTML_CSS_Project/image/Shop/ia_100000097.jpg);
+    background-image: url(./image/Shop/ia_100000097.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 102px;
@@ -1258,7 +1258,7 @@ body{
 .shop_section_5{
     padding-top: 50px;
     margin-top: 200px;
-    background-image: url(../HTML_CSS_Project/image/Shop/ia_100000098.jpg);
+    background-image: url(./image/Shop/ia_100000098.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 350px;
@@ -1363,7 +1363,7 @@ body{
 .about_video{
     width: 100%;
     height: 550px;
-    background-image: url(../HTML_CSS_Project/image/about_us/ia_100000010.jpg);
+    background-image: url(./image/about_us/ia_100000010.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 15px;
@@ -1389,7 +1389,7 @@ body{
 .about_count{
     width: 100%;
     height: 270px;
-    background-image: url(../HTML_CSS_Project/image/about_us/ia_100000011.jpg);
+    background-image: url(./image/about_us/ia_100000011.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 120px;
